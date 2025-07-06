@@ -10,3 +10,7 @@ A simple **Jupyter Notebook-based Todo List** project to track and manage your t
 ## 🛠 Requirements
 - Python 3.x
 - Jupyter Notebook / JupyterLab
+## To run
+- git clone https://github.com/Elakiya2904/Todo-List.git
+- cd Todo-List
+- jupyter notebook
